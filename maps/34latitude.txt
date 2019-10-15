@@ -1,0 +1,40 @@
+== General Information ==
+
+Map Title               : 34 Latitude
+Filename                : 34latitude.bsp
+Release Date            : January 30, 2003
+Author                  : Kain
+Email Address           : oberonn@yahoo.com
+Map Description         : Small HLDM map with a lot of ladders and vertical spaces.
+
+== Play Information ==
+
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes
+
+== Map Information ==
+
+Missing weapon(s)       : Hornet gun
+Secrets                 : One
+Prefabs                 : No
+New textures            : No
+File size               : 1.02 MB
+
+== Construction ==
+
+Editor used             : Valve Hammer Editor 3.4
+
+== Installation Info ==
+
+Place the two files "34latitude.bsp" and "34latitude.txt" in your Half-life/Valve/Maps/ folder.
+
+==Copyright / Permissions==
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+This map may be distributed ONLY on a "not for profit" basis using any medium,
+provided this file is included with no changes.
+
+Magazines and other published media may use my level provided they ask for my permission.
+

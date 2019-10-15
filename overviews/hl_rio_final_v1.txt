@@ -1,0 +1,14 @@
+// overview description file for hl_rio_final_v1.bsp
+
+global 
+{
+	ZOOM	2.25
+	ORIGIN	-480	608	320
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/hl_rio_final_v1.bmp"
+	HEIGHT	0
+}

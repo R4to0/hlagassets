@@ -1,0 +1,90 @@
+=======================================================              cracker_killbox:  a Half-Life deathmatch experience
+=======================================================
+
+Map Name:      		cracker_killbox.bsp
+Filesize:           	  	mb
+Author:            		DocRock
+Author's email:  		docrock_level_design@yahoo.com
+Homepage:      		http://docrocksmaps.homestead.com/docmaps.html
+			
+wadincluded in map:  	crackbutt.wad
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Single Player:    		No
+Co-Op:                		No
+Deathmatch:     		Yes
+
+Suggested Players:  	6 - 15
+New Textures:   		Yes 
+New Sounds:      		Yes
+New Models:		0
+No. of Rats:		0
+No. of Secrets:		?
+
+Map description:  		Deathmatch map made for [VDC] CrackerKen.
+
+=======================================================
+CONSTRUCTION:
+
+base map:               	none
+prefabs:           		none     		
+other models:		none	
+editor used:            	Worldcraft 3.5 Hammer
+utilities used:         	Zoner's Half-Life compile tools, Paintshop Pro 7, Wally,
+			MP3 to WAV converter
+known bugs:            	None
+compile machine:    	AMD Athlon XP 1600  1.39 GHz  448 mb of RAM
+compile time:          	25 minutes
+
+=======================================================
+INSTALLATION:
+
+Run Winzip and unzip cracker_killbox.zip.  Open the cracker_killbox folder and place the cracker_killbox.bsp, cracker_killbox.res, and cracker_killbox.txt in your valve/maps folder.   Place the wav files in a folder called killcracker and place that in your valve/sounds folder.  
+
+If you'd like a copy of the crackbutt.wad, email me and I'll send it to you.  docrock64@cox.net
+
+=======================================================
+OTHER LEVELS BY DOCROCK:
+
+Kitkat_Space, SubZero, Vicious, Camper_Rats, Wampas_Run, Kitkat_Urban, Tempest, Nightmare, Mario_Land, greyscale, kitkat_express, kitkat_factory, hardcore, kitkat_beach, kitkat_klub, Get_Shorty, Farmland2, Cliffside2, Tigger, Scooby_Doo, LOML_Palace, DepotArena...etc
+
+=======================================================
+BETA TESTERS:
+babykitkat
+[VDC] CrackerKen
+
+
+SPECIAL THANKS:
+To my babkitkat, my lover, my wife.  Thank you for testing this map with me, and working
+on it with me to achieve it's highest potential of fragdom.
+
+
+	
+=======================================================
+DOC'S NEXT MAP....COMING SOON:
+
+
+ =======================================================
+COPYRIGHT STUFF
+
+cracker_killbox  	copyright April 30, 2003 by DocRock		
+
+Authors MAY use this level as a base to build additional levels as long 
+as you give me credit in your read.me as using this map as a base to 
+build your level.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet.
+
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+PLEASE PLEASE PLEASE email us with any comments about this map or any 
+of my other maps because I love feedback good or bad...and I will do my 
+best to answer any and all emails regarding my maps.
+
