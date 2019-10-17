@@ -1,0 +1,13 @@
+// overview para hl_porno.bsp by R4to0.exe
+global
+{
+ZOOM 3.56
+ORIGIN 0 320 -1712
+ROTATED 1
+}
+
+layer
+{
+IMAGE "overviews/hl_porno.bmp"
+HEIGHT 2
+}
