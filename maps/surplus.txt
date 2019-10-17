@@ -1,0 +1,51 @@
+SURPLUS
+a deathmatch experience by DocRock
+
+a small base full of warehouses
+
+Map information:
+bsp name:	surplus.bsp
+skybox name:	moor
+map released:	dec 26 2012
+author:		DocRock
+author email:	docrock10@hotmail.com
+
+Build information:
+original map:	yes
+map based on:	mesabase by DocRock
+
+utilities used:	valve hammer 3.5.2
+		wally
+		paintshop
+	
+wadincluded:	ghost.wad
+		cd.wad
+		r25.wad
+		deep6.wad
+		
+models used:	none
+
+sounds used:	none
+
+sprites used:	none
+
+PC Specs:		Windows 7 Professional
+		Intel(R) Core(TM) i7-3930K
+		3.2 Ghz 
+		16gb memory
+		
+Compile Time:	2 minutes	
+
+map dedicated to:	babykitkat (always)
+
+beta testers:	babykitkat
+
+
+installation:	surplus.bsp to valve/maps
+		surplus.txt to valve/maps
+		moor tga to valve/gfx/env
+		
+
+
+
+

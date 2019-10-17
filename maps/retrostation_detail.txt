@@ -1,0 +1,171 @@
+metalfloor1 detail/tr_xlion/metalfloor1 1.0 1.0
+metalfloor2 detail/tr_xlion/metalfloor2 1.0 1.0
+metalfloor3 detail/tr_xlion/metalfloor3 1.0 1.0
+metalfloor4 detail/tr_xlion/metalfloor4 1.0 1.0
+metalfloor4b detail/tr_xlion/metalfloor4b 1.0 1.0
+metalfloor4c detail/tr_xlion/metalfloor4c 1.0 1.0
+metalfloor4d detail/tr_xlion/metalfloor4d 1.0 1.0
+metalfloor5 detail/tr_xlion/metalfloor5 1.0 1.0
+metalfloor6 detail/tr_xlion/metalfloor6 1.0 1.0
+metalfloor7 detail/tr_xlion/metalfloor7 1.0 1.0
+metalfloor8 detail/tr_xlion/metalfloor8 1.0 1.0
+metalfloor9 detail/tr_xlion/metalfloor9 1.0 1.0
+metalfloor10 detail/tr_xlion/metalfloor10 1.0 1.0
+metalfloor11 detail/tr_xlion/metalfloor11 1.0 1.0
+metalfloor12 detail/tr_xlion/metalfloor12 1.0 1.0
+metaldoor1 detail/tr_xlion/metaldoor1 1.0 1.0
+metaldoor2 detail/tr_xlion/metaldoor2 1.0 1.0
+
+lavarock1 detail/tr_xlion/lavarock1 1.0 1.0
+lavarock2 detail/tr_xlion/lavarock2 1.0 1.0
+
+lalamp detail/tr_xlion/lalamp 2.0 2.0
+carpeter1 detail/tr_xlion/carpeter1 1.0 1.0
+
+
+
+bcrate02x detail/tr_xlion/bcrate02x 1.0 1.0
+bcrate09ax detail/tr_xlion/bcrate09ax 1.0 1.0
+bcrate09bx detail/tr_xlion/bcrate09bx 1.0 1.0
+bcrate09cx detail/tr_xlion/bcrate09cx 1.0 1.0
+crate02x detail/tr_xlion/crate02x 1.0 1.0
+crate12x detail/tr_xlion/crate12x 1.0 1.0
+crate13x detail/tr_xlion/crate13x 1.0 1.0
+
+c1a3_sign5 detail/tr_xlion/c1a3_sign5 1.0 1.0
+sign4 detail/tr_xlion/sign4 1.0 1.0
+sign63 detail/tr_xlion/sign63 1.0 1.0
+
+fifties_cmp5x detail/tr_xlion/fifties_cmp5x 1.0 1.0
+fiftsfile1x detail/tr_xlion/fiftsfile1x 1.0 1.0
+out_wall2cx detail/tr_xlion/out_wall2cx 1.0 1.0
+tnnl_c1x detail/tr_xlion/tnnl_c1x 1.0 1.0
+
+picture1 detail/tr_xlion/picture1 1.0 1.0
+picture10 detail/tr_xlion/picture10 1.0 1.0
+picture2 detail/tr_xlion/picture2 1.0 1.0
+picture3 detail/tr_xlion/picture3 1.0 1.0
+picture4 detail/tr_xlion/picture4 1.0 1.0
+picture5 detail/tr_xlion/picture5 1.0 1.0
+picture6 detail/tr_xlion/picture6 1.0 1.0
+picture7 detail/tr_xlion/picture7 1.0 1.0
+picture8 detail/tr_xlion/picture8 1.0 1.0
+picture9 detail/tr_xlion/picture9 1.0 1.0
+
+
+marblefloor1 detail/tr_xlion/marblefloor1 2.0 2.0
+marblefloor2 detail/tr_xlion/marblefloor2 2.0 2.0
+marblefloor3 detail/tr_xlion/marblefloor3 2.0 2.0
+marblefloor4 detail/tr_xlion/marblefloor4 2.0 2.0
+marblefloor5 detail/tr_xlion/marblefloor5 2.0 2.0
+marblefloor6 detail/tr_xlion/marblefloor6 2.0 2.0
+marblefloor7 detail/tr_xlion/marblefloor7 2.0 2.0
+marblefloor8 detail/tr_xlion/marblefloor8 2.0 2.0
+marblefloor9 detail/tr_xlion/marblefloor9 2.0 2.0
+
+marbleroof1 detail/tr_xlion/marbleroof1 1.0 1.0
+marbleroof2 detail/tr_xlion/marbleroof2 1.0 1.0
+marbleroof3 detail/tr_xlion/marbleroof3 1.0 1.0
+marbleroof4 detail/tr_xlion/marbleroof4 1.0 1.0
+marbleroof5 detail/tr_xlion/marbleroof5 1.0 1.0
+marbleroof6 detail/tr_xlion/marbleroof6 1.0 1.0
+
+marblewall1 detail/tr_xlion/marblewall1 1.0 1.0
+marblewall2 detail/tr_xlion/marblewall2 1.0 1.0
+marblewall3 detail/tr_xlion/marblewall3 1.0 1.0
+marblewall4 detail/tr_xlion/marblewall4 1.0 1.0
+marblewall5 detail/tr_xlion/marblewall5 1.0 1.0
+marblewall6 detail/tr_xlion/marblewall6 1.0 1.0
+marblewall7 detail/tr_xlion/marblewall7 1.0 1.0
+marblewall8 detail/tr_xlion/marblewall8 1.0 1.0
+marblewall9 detail/tr_xlion/marblewall9 1.0 1.0
+marblewall10 detail/tr_xlion/marblewall10 1.0 1.0
+marblewall11 detail/tr_xlion/marblewall11 1.0 1.0
+marblewall12 detail/tr_xlion/marblewall12 1.0 1.0
+marblewall13 detail/tr_xlion/marblewall13 1.0 1.0
+
+metalwood2 detail/tr_xlion/metalwood2 1.0 1.0
+
+pure1 detail/tr_xlion/pure1 1.0 1.0
+pure2 detail/tr_xlion/pure2 1.0 1.0
+pure3 detail/tr_xlion/pure3 1.0 1.0
+pure4 detail/tr_xlion/pure4 1.0 1.0
+pure5 detail/tr_xlion/pure5 1.0 1.0
+pure6 detail/tr_xlion/pure6 1.0 1.0
+pure7 detail/tr_xlion/pure7 1.0 1.0
+pure8 detail/tr_xlion/pure8 1.0 1.0
+
+metalroof1 detail/tr_xlion/metalroof1 1.0 1.0
+metalroof1l1 detail/tr_xlion/metalroof1l1 1.0 1.0
+metalroof1l2 detail/tr_xlion/metalroof1l2 1.0 1.0
+metalroof1l3 detail/tr_xlion/metalroof1l3 1.0 1.0
+metalroof2 detail/tr_xlion/metalroof2 1.0 1.0
+metalroof3 detail/tr_xlion/metalroof3 1.0 1.0
+metalroof3l1 detail/tr_xlion/metalroof3l1 1.0 1.0
+metalroof3l2 detail/tr_xlion/metalroof3l2 1.0 1.0
+metalroof3l3 detail/tr_xlion/metalroof3l3 1.0 1.0
+metalroof4 detail/tr_xlion/metalroof4 1.0 1.0
+metalroof5 detail/tr_xlion/metalroof5 1.0 1.0
+metalroof6 detail/tr_xlion/metalroof6 1.0 1.0
+metalroof7 detail/tr_xlion/metalroof7 1.0 1.0
+
+metaltrim1 detail/tr_xlion/metaltrim1 1.0 1.0
+
+metalwall1 detail/tr_xlion/metalwall1 1.0 1.0
+metalwall2 detail/tr_xlion/metalwall2 1.0 1.0
+metalwall3 detail/tr_xlion/metalwall3 1.0 1.0
+
+metalwood1 detail/tr_xlion/metalwood1 1.0 1.0
+
+tr_floor1 detail/tr_xlion/tr_floor1 1.0 1.0
+tr_floor2 detail/tr_xlion/tr_floor2 1.0 1.0
+tr_floor3 detail/tr_xlion/tr_floor3 1.0 1.0
+tr_floor4 detail/tr_xlion/tr_floor4 1.0 1.0
+tr_floor5 detail/tr_xlion/tr_floor5 1.0 1.0
+tr_floor6 detail/tr_xlion/tr_floor6 1.0 1.0
+tr_floor7 detail/tr_xlion/tr_floor7 1.0 1.0
+
+tr_light1b detail/tr_xlion/tr_light1b 1.0 1.0
+tr_light1r detail/tr_xlion/tr_light1r 1.0 1.0
+tr_light1g detail/tr_xlion/tr_light1g 1.0 1.0
+tr_light1w detail/tr_xlion/tr_light1w 1.0 1.0
+tr_light1y detail/tr_xlion/tr_light1y 1.0 1.0
+tr_glass detail/tr_xlion/tr_glass 1.0 1.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

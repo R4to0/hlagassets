@@ -1,0 +1,29 @@
+*** Enable r_detailtextures 1 				*** 
+*** r_detailtexturessupported 1 			*** 
+*** If you forget to do this the map is mostly white 	***
+
+de_retrostation - Bomb/Defuse
+*** Contestmap: Journey to the Center of the Earth ***
+by Trempler (trempler2003xxl@web.de)
+textures by trempler (most of them, check credit list for full info)
+models by trempler (most of them, check credit list for full info)
+sounds by vavle and www.freesound.org
+
+*** Enable r_detailtextures 1 				*** 
+*** r_detailtexturessupported 1 			*** 
+*** If you forget to do this the map is mostly white 	***
+
+Have fun playing :) 
+
+Story:
+
+The Retrostation is a secret laboratory located 1,500 miles deep in the ground.
+
+The Station is mostly empty because all research has finished and it acts more like a museum.
+Some terrorists have just entered the station, the counter-terrorists have no idea why and what they want there.
+So try to find out :)
+
+
+*** Enable r_detailtextures 1 				*** 
+*** r_detailtexturessupported 1 			*** 
+*** If you forget to do this the map is mostly white 	***

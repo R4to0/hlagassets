@@ -1,0 +1,16 @@
+// overview description file for retrostation.bsp
+
+global 
+{
+	ZOOM	1.25
+	ORIGIN	-608 	-464	296
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/retrostation.bmp"
+	HEIGHT	-1100
+}
+
+

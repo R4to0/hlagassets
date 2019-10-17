@@ -1,0 +1,295 @@
+"parking_readme.txt"=============================================================================
+(11.06.2005)
+
+Map proporties:
++Name: dm_parking
++Type: Half-Life - Multiplayer DM (deathmach)
++Size: meddium
++Last update: 10.07.2005
++Map started: 19.02.2005
+
+Description:
+Map is a low levels of science complex. There are parking, cannals, reception office, and other.
+As a bonus I can tell that there is a secret place in the map.
+
+Author: (-[PREDATOR]-) PL / predator_koszalin
+E-m@il: predator_koszalin2003@wp.pl
+Site: http://www.predator.koszalin.prv.pl/
+
+Prefarbs:
++Computer monitor and keyboard ("Detailed Corner Desk"):
+ URL: http://www.snarkpit.com/editing.php?page=files&download=22
+ made by R@lph VViggum
++Detailed Explorer:
+ -original prefarb by Carlos Salgado
+ -hollowed version by Michael Kubilis
+ -inside/additional textures by RabidMonkey777
+
+
+(-[PREDATOR]-)'s other maps: URL:
+-Understation (HL-MP)        http://www.psy1.toxic.pl/predator/files/understation.zip
+-Floracomplex (HL-MP)        http://www.psy1.toxic.pl/predator/files/floracomplex.zip
+-cs_snowhidingplace (HL:CS)  http://www.psy1.toxic.pl/predator/download_cs_snowhidingplace.htm
+
+
+
+Compile process register:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+** Executing...
+** Command: Change Directory
+** Parameters: "D:\Program Files\Sierra\Half-Life"
+
+
+** Executing...
+** Command: D:\PROGRA~1\VALVEH~1\TOOLS\HLCSG.EXE
+** Parameters: "d:\(-[predator]-)\worldcraft - pliki\moje mapy\dm_parking"
+
+hlcsg v2.5.3 rel Custom Build 1.7 (Dec  9 2002)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (merlinis@bigpond.net.au)
+-----  BEGIN  hlcsg -----
+Command line: D:\PROGRA~1\VALVEH~1\TOOLS\HLCSG.EXE "d:\(-[predator]-)\worldcraft - pliki\moje mapy\dm_parking"
+Entering d:\(-[predator]-)\worldcraft - pliki\moje mapy\dm_parking.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       1 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [      on ] [      on ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Using mapfile wad configuration
+Wadinclude list :
+[zhlt.wad]
+
+49 brushes (totalling 294 sides) discarded from clipping hulls
+CreateBrush:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (7.74 seconds)
+SetModelCenters:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (0.00 seconds)
+CSGBrush:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (7.14 seconds)
+
+Using Wadfile: \program files\sierra\half-life\halflife.wad
+ - Contains 96 used textures, 100.00 percent of map (3116 textures in wad)
+Using Wadfile: \program files\sierra\half-life\cstrike\decals.wad
+ - Contains 0 used textures, 0.00 percent of map (225 textures in wad)
+Using Wadfile: \program files\sierra\half-life\cstrike\cstrike.wad
+ - Contains 0 used textures, 0.00 percent of map (123 textures in wad)
+
+added 9 additional animating textures.
+Texture usage is at 1.16 mb (of 4.00 mb MAX)
+16.25 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+
+** Executing...
+** Command: D:\PROGRA~1\VALVEH~1\TOOLS\HLBSP.EXE
+** Parameters: "d:\(-[predator]-)\worldcraft - pliki\moje mapy\dm_parking"
+
+hlbsp v2.5.3 rel Custom Build 1.7 (Dec  9 2002)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (merlinis@bigpond.net.au)
+-----  BEGIN  hlbsp -----
+Command line: D:\PROGRA~1\VALVEH~1\TOOLS\HLBSP.EXE "d:\(-[predator]-)\worldcraft - pliki\moje mapy\dm_parking"
+
+Current hlbsp Settings
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       1 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+null tex. stripping [      on ] [      on ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 512)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 4096)
+
+
+BSP generation successful, writing portal file 'd:\(-[predator]-)\worldcraft - pliki\moje mapy\dm_parking.prt'
+20.70 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+
+** Executing...
+** Command: D:\PROGRA~1\VALVEH~1\TOOLS\HLVIS.EXE
+** Parameters: "d:\(-[predator]-)\worldcraft - pliki\moje mapy\dm_parking" -full
+
+hlvis v2.5.3 rel Custom Build 1.7 (Dec  9 2002)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (merlinis@bigpond.net.au)
+-----  BEGIN  hlvis -----
+Command line: D:\PROGRA~1\VALVEH~1\TOOLS\HLVIS.EXE "d:\(-[predator]-)\worldcraft - pliki\moje mapy\dm_parking"-full 
+2661 portalleafs
+9003 numportals
+
+-= Current hlvis Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       1 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+max vis distance    [       0 ] [       0 ]
+priority            [  Normal ] [  Normal ]
+
+fast vis            [     off ] [     off ]
+full vis            [      on ] [     off ]
+
+
+BasePortalVis:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (37.02 seconds)
+LeafThread:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (6388.50 seconds)
+average leafs visible: 232
+g_visdatasize:176461  compressed from 886113
+6426.06 seconds elapsed [1h 47m 6s]
+
+-----   END   hlvis -----
+
+
+
+
+** Executing...
+** Command: D:\PROGRA~1\VALVEH~1\TOOLS\HLRAD.EXE
+** Parameters: "d:\(-[predator]-)\worldcraft - pliki\moje mapy\dm_parking" -extra
+
+hlrad v2.5.3 rel Custom Build 1.7 (Dec  9 2002)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (merlinis@bigpond.net.au)
+-----  BEGIN  hlrad -----
+Command line: D:\PROGRA~1\VALVEH~1\TOOLS\HLRAD.EXE "d:\(-[predator]-)\worldcraft - pliki\moje mapy\dm_parking"-extra 
+
+-= Current hlrad Settings =-
+Name                | Setting             | Default
+--------------------|---------------------|-------------------------
+threads              [                 1 ] [            Varies ]
+verbose              [               off ] [               off ]
+log                  [                on ] [                on ]
+developer            [                 0 ] [                 0 ]
+chart                [               off ] [               off ]
+estimate             [               off ] [               off ]
+max texture memory   [           4194304 ] [           4194304 ]
+priority             [            Normal ] [            Normal ]
+
+vismatrix algorithm  [          Original ] [          Original ]
+oversampling (-extra)[                on ] [               off ]
+bounces              [                 1 ] [                 1 ]
+ambient light        [ 0.000 0.000 0.000 ] [ 0.000 0.000 0.000 ]
+maximum light        [           255.000 ] [           256.000 ]
+circus mode          [               off ] [               off ]
+
+smoothing threshold  [            50.000 ] [            50.000 ]
+direct threshold     [            25.000 ] [            25.000 ]
+direct light scale   [             2.000 ] [             2.000 ]
+coring threshold     [             1.000 ] [             1.000 ]
+patch interpolation  [                on ] [                on ]
+
+texscale             [                on ] [                on ]
+patch subdividing    [                on ] [                on ]
+chop value           [            64.000 ] [            64.000 ]
+texchop value        [            32.000 ] [            32.000 ]
+
+global fade          [             1.000 ] [             1.000 ]
+global falloff       [                 2 ] [                 2 ]
+global light scale   [ 1.000 1.000 1.000 ] [ 1.000 1.000 1.000 ]
+global gamma         [ 0.500 0.500 0.500 ] [ 0.500 0.500 0.500 ]
+global light scale   [             1.000 ] [             1.000 ]
+global sky diffusion [             1.000 ] [             1.000 ]
+
+opaque entities      [                on ] [                on ]
+sky lighting fix     [                on ] [                on ]
+incremental          [               off ] [               off ]
+dump                 [               off ] [               off ]
+
+colour jitter        [       0.0 0.0 0.0 ] [       0.0 0.0 0.0 ]
+monochromatic jitter [       0.0 0.0 0.0 ] [       0.0 0.0 0.0 ]
+softlight hack       [   0.0 0.0 0.0 0.0 ] [   0.0 0.0 0.0 0.0 ]
+diffuse hack         [                on ] [                on ]
+spotlight points     [                on ] [                on ]
+
+custom shadows with bounce light
+                     [               off ] [               off ]
+rgb transfers        [               off ] [               off ]
+
+
+[Reading texlights from 'D:\PROGRAM FILES\VALVE HAMMER EDITOR\TOOLS\lights.rad']
+[1 texlights parsed from 'D:\PROGRAM FILES\VALVE HAMMER EDITOR\TOOLS\lights.rad']
+
+10004 faces
+Create Patches : 31672 base patches
+0 opaque faces
+143413 square feet [20651526.00 square inches]
+121 direct lights
+
+BuildFacelights:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (476.04 seconds)
+visibility matrix   :  59.8 megs
+BuildVisLeafs:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (190.32 seconds)
+MakeScales:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (98.37 seconds)
+SwapTransfers:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (19.77 seconds)
+Transfer Lists :    19884704 :   19.88M transfers
+       Indices :    16617304 :   15.85M bytes
+          Data :    79538816 :   75.85M bytes
+Bounce 1 GatherLight:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (7.09 seconds)
+FinalLightFace:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (4.34 seconds)
+800.21 seconds elapsed [13m 20s]
+
+-----   END   hlrad -----
+
+
+
+
+** Executing...
+** Command: Copy File
+** Parameters: "d:\(-[predator]-)\worldcraft - pliki\moje mapy\dm_parking.bsp" "D:\Program Files\Sierra\Half-Life\valve\maps\dm_parking.bsp"
+
+
+** Executing...
+** Command: Copy File
+** Parameters: "d:\(-[predator]-)\worldcraft - pliki\moje mapy\dm_parking.pts" "D:\Program Files\Sierra\Half-Life\valve\maps\dm_parking.pts"
