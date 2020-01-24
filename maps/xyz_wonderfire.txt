@@ -1,0 +1,75 @@
+=======================================================
+xyz_wonderfire
+=======================================================
+
+Map Name:                       	xyz_wonderfire.bsp
+Filesize:                       	2,277kb
+Author:                         	{xYz} Officer Sparkz [Canada]
+Author email:                   	xyzteamplay@rogers.com
+Homepage:				n/a                    
+
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Single Player:                 			Yes (testing purposes only)
+Co-Op:                         			No
+Deathmatch:                     		Yes
+Suggested Players:             			8 - 32
+New Textures:                   		NO
+New Sounds:                     		NO
+New Models:                     		NO
+
+Map description:                		
+
+A Half-Life deathmatch map inspired by gasworks, stalkyard & crossfire. 
+Rebuilt all three maps and merged them into one. Keeps the momentum going!!
+
+Enjoy!
+
+=======================================================
+CONSTRUCTION:
+
+base map:                       		crossfire
+prefabs:                        		None
+editor used:                    		Worldcraft 3.5 Hammer
+utilities used:                 		Zoner's Half-Life compile tools
+known bugs:                     		None that are known
+compile machine:                		Intel Pentium 4 1.7 GHZ
+compile time:                   		25 minutes
+
+=======================================================
+INSTALLATION:
+
+Place xyz_wonderfire.bsp in your maps folder: halflife/valve/maps
+Place xyz_wonderfire.res in your maps folder: halflife/valve/maps
+Place xyz_wonderfire.txt in your maps folder: halflife/valve/maps
+
+=======================================================
+SPECIAL THANKS:
+
+To {xYz} Warpath [Germany] for all the support and encouragment you have 
+given me that has enabled me to complete such projects. And thank you for
+being such a good friend.
+
+To {aBc} Orange [America] for some of the inspirations that resulted in the
+development of certain features.
+
+To all the players that come out and support "{xYz} Teamplay Hgrunt/Recon"
+every day.
+
+And to my beautiful girlfriend Courtney who puts up with me every day :)
+
+
+=======================================================
+COPYRIGHT 2005
+
+xyz_ymore.bsp COPYRIGHT October 26th, 2005  by {xYz} Officer Sparkz [Canada]
+Authors MAY use this level as a base to build additional levels as long 
+as you give me credit in your readme.
+
+YOU MUST NOT DISTRIBUTE THIS MAP UNLESS ALL FILES ARE KEPT INTACT. 
+
+IF THE ABOVE CONDITIONS HAVE BEEN MET, YOU MAY DISTRIBUTE THIS MAP VIA
+THE INTERNET OR MULTIMEDIA CD.
+
