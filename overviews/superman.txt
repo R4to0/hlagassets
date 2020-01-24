@@ -1,0 +1,14 @@
+// overview description file for superman.bsp
+
+global 
+{
+	ZOOM	1.53
+	ORIGIN	-1144 	944	-3841
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/superman.bmp"
+	HEIGHT	-3841
+}

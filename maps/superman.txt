@@ -1,0 +1,34 @@
+Superman by JMW (Justin Michael Wright)  --check out www.jmwrightdesigns.com for more by JMW
+
+
+Superman info
+---------------->
+*-->Time took to create:  on and off for a couple of months.
+
+*-->Time took to compile:  about 20 mins.
+
+*-->Special Areas: When you step on the 'Fly Zone' logo underneath the giant superman symbol, you will fly through the city towards the RPG.
+
+*-->Concept: I saw the Snarkpit had a mapping competition and figured I would get in.  The contest required each map to have a specific theme.  I went with flat shaded textures and a superman theme. Also worth mentioning, this map has a few areas that simulate flying.  One is indoors over a pit and the other is up high in the city.
+
+*-->Weapons: All weapons but the egon and snark are included.
+
+*-->Bots: I have included waypoints using the HPB bot tools.
+
+*-->Sounds
+The music played throughout the map is from the Superman movies.  The audio commentary heard in various parts of the map comes from the Superman cartoons. 
+
+*-->Models
+I grabbed the superman model out of an old mod from 2001-2002 called Battle of the Millenium.
+
+*-->Textures
+All are included in the .bsp. A majority of them are from the official superman website.
+send an email to justin_wright_2107@yahoo.com if you have any questions or comments.
+
+*-->Sky
+I grabbed this sky off of the Wadfather website.
+
+Other Maps by me: Too many to list.  Maps for VS/MS/CS/DMC/Q3/BG/HLDM  -All can be found at jmwrightdesigns.com
+
+----------------->
+-JMW 2004  www.jmwrightdesigns.com for game audio, levels, and art.
